@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 👀 I’m interested in coding, technology and in conputers..
+- 🌱 I’m currently a student
+- contact me on gmail aaryabalan2006@gmail.com
 <!--
 **AaryaBalan/AaryaBalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
