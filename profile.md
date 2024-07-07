@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaryaBalan
-- 👀 I’m interested in coding and conputers..
+- 👀 I’m interested in coding, technology and in conputers..
 - 🌱 I’m currently a student
 - contact me on gmail aaryabalan2006@gmail.com
 
