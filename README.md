@@ -1,108 +1,121 @@
-## Hey 👋, I'm Aarya B  
-  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/AaryaBalan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/AaryaBalan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_aarya.03_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@aarya_balan" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
+```
+░█████╗░░█████╗░██████╗░██╗░░░██╗░█████╗░
+██╔══██╗██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗
+███████║███████║██████╔╝░╚████╔╝░███████║
+██╔══██║██╔══██║██╔══██╗░░╚██╔╝░░██╔══██║
+██║░░██║██║░░██║██║░░██║░░░██║░░░██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░╚═╝░░╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=full-stack+dev+%7C+backend+at+heart;building+things+that+scale+%26+ship" alt="typing"/>
 
 
+<p align="center">
+  <a href="https://github.com/AaryaBalan">
+    <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&logo=github&labelColor=0d1117&color=39d353" />
+  </a>
+  <a href="mailto:aaryabalan2006@gmail.com">
+    <img src="https://img.shields.io/badge/drop%20a%20mail-aaryabalan2006%40gmail.com-39d353?style=for-the-badge&logo=gmail&labelColor=0d1117&logoColor=39d353" />
+  </a>
+  <a href="https://www.linkedin.com/in/aaryabalan/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-39d353?style=for-the-badge&logo=linkedin&labelColor=0d1117&logoColor=39d353" />
+  </a>
+  <a href="https://aarya-b.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-aarya--b.vercel.app-39d353?style=for-the-badge&logo=google-chrome&labelColor=0d1117&logoColor=39d353" />
+  </a>
+</p>
 
-### Glad to see you here!  
-Glad to see you here!
-I’m a full-stack developer who enjoys building products that feel smooth on the front end and stay reliable on the back end. I love working on both sides because it helps me understand the full picture — from user experience to performance, scalability, and real-world deployment.
-
-I’m especially interested in building strong backend systems that handle the heavy lifting behind the scenes. I like designing applications that are simple to use, fast to load, and built to scale. Along the way, I also enjoy exploring modern tools and writing code that’s clean, maintainable, and production-ready.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 👨‍💻 Currently exploring full-stack development, Mobile app development  
-  
-
-- 🧠 Learning about AI integrations, web architecture, and developer communities  
-  
-
-- 🔭 Building projects in dev collaboration, social tech, and feed-based content platforms  
-  
-
-- 👯 Looking to collaborate on open-source, startup MVPs, or hackathons  
-  
-
-- 📫 Reach me at: aaryabalan2006@gmail.com  
+</div>
 
 
-</td><td valign="top" width="50%">
+```js
+// aarya.config.js
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
+export default {
+  name:     "Aarya Balan",
+  role:     "Full-Stack Developer",
+  based_in: "India 🇮🇳",
 
-</td></tr></table>  
+  focus: [
+    "Backend systems that don't break",
+    "Frontends that don't frustrate",
+    "Code that people actually maintain",
+  ],
 
-<br/>  
+  currently: {
+    building:  ["dev collab tools", "social tech", "feed platforms"],
+    learning:  ["AI integrations", "web architecture"],
+    open_to:   ["OSS", "hackathons", "startup MVPs"],
+  },
+
+  reach_me: "aaryabalan2006@gmail.com",
+};
+```
+
+<br clear="right"/>
+
+## `🛠 Tech Stack`
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Mobile & Systems**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
-</div>  
+## `// stats`
 
-<br/>  
+<div align="center">
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AaryaBalan&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)](https://github.com/AaryaBalan)
+
+</div>
+
+## `// contribution graph`
+
+<div align="center">
+
+[![Aarya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryaBalan&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=commits%20over%20time)](https://github.com/AaryaBalan)
+
+</div>
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+*open to interesting problems. if you're building something real, let's talk.*
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=AaryaBalan&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=80&section=footer" width="100%"/>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBalan&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AaryaBalan&&style=flat-square)  
-  
-
-<br/>  
-
+</div>
