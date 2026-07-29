@@ -114,7 +114,7 @@ export default {
 </div>
 
 
-*open to interesting problems. if you're building something real, let's talk.*
+*open to interesting problems. if you're building something real, let's talk.......*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=80&section=footer" width="100%"/>
 
