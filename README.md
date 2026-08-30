@@ -126,13 +126,13 @@ I'm Aarya, a passionate developer with a love for technology. I enjoy coding, pr
   <a href="https://linkedin.com/in/AaryaBalan">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:aaryabalan2006@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://aarya-b.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/yourdiscordid">
+  <a href="https://discord.com/users/aarya.03_">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
