@@ -1,121 +1,140 @@
+<!-- <div align="center">
+
+</div>
+
+<!-- ================= HEADER ================= -->
+<table width="100%" style="border:none;" align="center">
+<tr>
+<td width="50%" valign="top">
+
+# Aarya
+### <span style="color:#1f6feb">@AaryaBalan</span>
+
+</td>
+<td width="50%" align="right" valign="top">
+
+`[ Chennai Institute Of Technology ]`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `[ BIOGRAPHY ]`
+
+I'm Aarya, a passionate developer with a love for technology. I enjoy coding, programming
+
+📍 Chennai, Tamil Nadu&nbsp;&nbsp;&nbsp;🔗 [https://aarya-b.vercel.app/](https://aarya-b.vercel.app/)
+
+<br>
+
+<!-- ================= PROFILE + STATS ================= -->
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="top">
+
+<img src="aarya_ascii.png" width="350" alt="ascii avatar"/>
+
+<sub>Aarya B</sub>
+
+</td>
+<td width="65%" valign="top">
+
+```text
+─ AaryaBalan@github ────────────────────────
+. Uptime: ................. 5 years, 2 months, 9 days
+. Location: ............................ Chennai, Tamil Nadu
+. Company: ................ Chennai Institute Of Technology
+. Languages: ................... JavaScript, TypeScript, HTML, CSS
+. Joined: .......................................... Jun 2021
+
+─ Contact ──────────────────────────────────
+. Website: ..................... https://aarya-b.vercel.app/
+. GitHub: ......................... github.com/AaryaBalan
+
+─ GitHub Stats ─────────────────────────────
+. Repos: ............. 35   |  . Stars: ............... 6
+. Commits: ........... 688  |  . Followers: ........... 25
+. Following: ......... 25
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ================= LANGUAGES + SKILLS ================= -->
+<table width="100%">
+<tr>
+<td width="48%" valign="top">
+
+### `[ TOP LANGUAGES ]`
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBalan&layout=compact&theme=dark&hide_border=true&bg_color=#1f6feb&title_color=7EE787&text_color=C9D1D9)
+
+</td>
+<td width="48%" valign="top">
+
+### `[ TECHNOLOGIES & SKILLS ]`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,cpp,react,nextjs,tailwind,figma,md,nodejs,vscode,swift,git,fastapi,rust,docker,threejs,linux,bash&theme=dark" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ================= NAME BANNER ================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=120&section=header&animation=fadeIn" width="100%"/>
 
 ```
-░█████╗░░█████╗░██████╗░██╗░░░██╗░█████╗░
-██╔══██╗██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗
-███████║███████║██████╔╝░╚████╔╝░███████║
-██╔══██║██╔══██║██╔══██╗░░╚██╔╝░░██╔══██║
-██║░░██║██║░░██║██║░░██║░░░██║░░░██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░╚═╝░░╚═╝
+ ███   ███  ████  █   █  ███  
+█   █ █   █ █   █  █ █  █   █ 
+█████ █████ ████    █   █████ 
+█   █ █   █ █  █    █   █   █ 
+█   █ █   █ █   █   █   █   █ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=full-stack+dev+%7C+backend+at+heart;building+things+that+scale+%26+ship" alt="typing"/>
+</div>
 
+<br>
+
+<!-- ================= METRICS ================= -->
+### [ GITHUB METRICS ]
+<p align="center"> <img src="https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&label=STARS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=REPOS&query=public_repos&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&label=FOLLOWERS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=FOLLOWING&query=following&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=GISTS&query=public_gists&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> </p> <br> 
+
+<!-- Optional: live dynamic version instead of the static table above -->
+<!--
+![Stars](https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&color=7EE787&label=STARS&labelColor=#1f6feb)
+![Followers](https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&color=7EE787&label=FOLLOWERS&labelColor=#1f6feb)
+-->
+
+<br>
+
+<!-- ================= SOCIAL ================= -->
+### `[ SOCIAL MEDIA ]`
 
 <p align="center">
   <a href="https://github.com/AaryaBalan">
-    <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&logo=github&labelColor=0d1117&color=39d353" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aaryabalan2006@gmail.com">
-    <img src="https://img.shields.io/badge/drop%20a%20mail-aaryabalan2006%40gmail.com-39d353?style=for-the-badge&logo=gmail&labelColor=0d1117&logoColor=39d353" />
+  <a href="https://linkedin.com/in/AaryaBalan">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aaryabalan/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-39d353?style=for-the-badge&logo=linkedin&labelColor=0d1117&logoColor=39d353" />
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aarya-b.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-aarya--b.vercel.app-39d353?style=for-the-badge&logo=google-chrome&labelColor=0d1117&logoColor=39d353" />
+  <a href="https://aarya-b.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-</div>
-
-
-```js
-// aarya.config.js
-
-export default {
-  name:     "Aarya Balan",
-  role:     "Full-Stack Developer",
-  based_in: "India 🇮🇳",
-
-  focus: [
-    "Backend systems that don't break",
-    "Frontends that don't frustrate",
-    "Code that people actually maintain",
-  ],
-
-  currently: {
-    building:  ["dev collab tools", "social tech", "feed platforms"],
-    learning:  ["AI integrations", "web architecture"],
-    open_to:   ["OSS", "hackathons", "startup MVPs"],
-  },
-
-  reach_me: "aaryabalan2006@gmail.com",
-};
-```
-
-<br clear="right"/>
-
-## `🛠 Tech Stack`
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Mobile & Systems**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-
-## `// stats`
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AaryaBalan&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)](https://github.com/AaryaBalan)
-
-</div>
-
-## `// contribution graph`
-
-<div align="center">
-
-[![Aarya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryaBalan&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=commits%20over%20time)](https://github.com/AaryaBalan)
-
-</div>
-
-
-*open to interesting problems. if you're building something real, let's talk.......*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=80&section=footer" width="100%"/>
-
-</div>
+<br>
