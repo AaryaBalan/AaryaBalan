@@ -106,7 +106,7 @@ I'm Aarya, a passionate developer with a love for technology. I enjoy coding, pr
 
 <!-- ================= METRICS ================= -->
 ### [ GITHUB METRICS ]
-<p align="center"> <img src="https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&label=STARS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=REPOS&query=public_repos&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&label=FOLLOWERS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=FOLLOWING&query=following&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=GISTS&query=public_gists&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> </p> <br> 
+<p align="center"> <img src="https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&label=STARS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=REPOS&query=public_repos&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&label=FOLLOWERS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=FOLLOWING&query=following&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <br> 
 
 <!-- Optional: live dynamic version instead of the static table above -->
 <!--
