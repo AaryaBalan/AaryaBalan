@@ -1,35 +1,17 @@
-<!-- <div align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hey, I'm Aarya B!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Development%20Engineer;Internet%20of%20Things%2C%20Data%20Analyti...;Based%20in%20Not%20specified)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ================= HEADER ================= -->
-<table width="100%" style="border:none;" align="center">
-<tr>
-<td width="50%" valign="top">
+### `[Hello there 👋]`
 
-# Aarya
-### <span style="color:#1f6feb">@AaryaBalan</span>
+#### Tech Lead by day ☼ and Open Source Contributor by night ☾
 
-</td>
-<td width="50%" align="right" valign="top">
-
-`[ Chennai Institute Of Technology ]`
-
-</td>
-</tr>
-</table>
-
----
-
-### `[ BIOGRAPHY ]`
-
-I'm Aarya, a passionate developer with a love for technology. I enjoy coding, programming
-
-📍 Chennai, Tamil Nadu&nbsp;&nbsp;&nbsp;🔗 [https://aarya-b.vercel.app/](https://aarya-b.vercel.app/)
-
-<br>
-
-<!-- ================= PROFILE + STATS ================= -->
 <table width="100%">
 <tr>
 <td width="35%" align="center" valign="top">
@@ -41,83 +23,39 @@ I'm Aarya, a passionate developer with a love for technology. I enjoy coding, pr
 </td>
 <td width="65%" valign="top">
 
-```text
-─ AaryaBalan@github ────────────────────────
-. Uptime: ................. 5 years, 2 months, 9 days
-. Location: ............................ Chennai, Tamil Nadu
-. Company: ................ Chennai Institute Of Technology
-. Languages: ................... JavaScript, TypeScript, HTML, CSS
-. Joined: .......................................... Jun 2021
+Tech Lead at [Asymmetric Club](https://github.com/Club-Asymmetric);<br>
+Based in Not specified;<br>
 
-─ Contact ──────────────────────────────────
-. Website: ..................... https://aarya-b.vercel.app/
-. GitHub: ......................... github.com/AaryaBalan
-
-─ GitHub Stats ─────────────────────────────
-. Repos: ............. 35   |  . Stars: ............... 6
-. Commits: ........... 688  |  . Followers: ........... 25
-. Following: ......... 25
-```
+- ⚙️ I use daily: `.javascript, .typescript, .python, .sql, .c++, .html, .css`
+- 🌍 I'm mostly active within the **JavaScript Community**
+- 💬 `ping` me about **Full stack development, AI and Machine Learning, software architecture and code quality**
+- 📫 How to reach me: [aaryabalan2006@gmail.com](mailto:aaryabalan2006@gmail.com)
+- ⚡ Fun fact: Secured 1st place in IIT Bombay’s e-Yantra competition for game design & system implementation.
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ================= LANGUAGES + SKILLS ================= -->
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
+## `[Languages and Tools]`
 
-### `[ TOP LANGUAGES ]`
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBalan&layout=compact&theme=dark&hide_border=true&bg_color=#1f6feb&title_color=7EE787&text_color=C9D1D9)
-
-</td>
-<td width="48%" valign="top">
-
-### `[ TECHNOLOGIES & SKILLS ]`
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,cpp,react,nextjs,tailwind,figma,md,nodejs,vscode,swift,git,fastapi,rust,docker,threejs,linux,bash&theme=dark" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ================= NAME BANNER ================= -->
 <div align="center">
 
-```
- ███   ███  ████  █   █  ███  
-█   █ █   █ █   █  █ █  █   █ 
-█████ █████ ████    █   █████ 
-█   █ █   █ █  █    █   █   █ 
-█   █ █   █ █   █   █   █   █ 
-```
-
-</div>
+![Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,mongodb,mysql,postgresql,sqlite,redis,firebase,supabase,git,github,linux,docker,kubernetes,androidstudio,flutter,aws,vercel,netlify,postman,figma,bash,vue
+)
 
 <br>
 
-<!-- ================= METRICS ================= -->
-### [ GITHUB METRICS ]
-<p align="center"> <img src="https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&label=STARS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=REPOS&query=public_repos&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&label=FOLLOWERS&color=7EE787&labelColor=#1f6feb" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AaryaBalan&label=FOLLOWING&query=following&style=for-the-badge&color=7EE787&labelColor=#1f6feb" /> <br> 
+## `[STATS]`
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaryaBalan&theme=github_dark&name=Contribution)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaryaBalan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AaryaBalan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaryaBalan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AaryaBalan&theme=github_dark&utcOffset=0)
 
-<!-- Optional: live dynamic version instead of the static table above -->
-<!--
-![Stars](https://img.shields.io/github/stars/AaryaBalan?style=for-the-badge&color=7EE787&label=STARS&labelColor=#1f6feb)
-![Followers](https://img.shields.io/github/followers/AaryaBalan?style=for-the-badge&color=7EE787&label=FOLLOWERS&labelColor=#1f6feb)
--->
 
-<br>
-
-<!-- ================= SOCIAL ================= -->
-### `[ SOCIAL MEDIA ]`
+## `[ SOCIAL MEDIA ]`
 
 <p align="center">
   <a href="https://github.com/AaryaBalan">
@@ -136,5 +74,3 @@ I'm Aarya, a passionate developer with a love for technology. I enjoy coding, pr
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
-<br>
